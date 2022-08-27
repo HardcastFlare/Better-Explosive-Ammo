@@ -1,4 +1,4 @@
-# CDDA-Better-Explosive-Ammo
+# Better-Explosive-Ammo
 A small mod that makes explosive arrows a bit more useful and explosive slugs a LOT more useful.
 
   In the current experimental version (as of August 26, 2022), explosive slugs are crap, bordering on useless. This mod changes that. You can now smack down on just about anything with your rare explosive slugs. They can also penetrate doors now.
