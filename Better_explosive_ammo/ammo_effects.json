@@ -1,0 +1,7 @@
+[
+  {
+    "id": "EXPLOSIVE_HESHOT",
+    "type": "ammo_effect",
+    "explosion": { "power": 4, "shrapnel": { "casing_mass": 1, "fragment_mass": 0.03125 } }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "shot_he",
+    "copy-from": "shot_he",
+    "type": "AMMO",
+    "name": { "str": "explosive slug" },
+    "description": "A shotgun shell shooting a small, but potent explosive.  Banned in several states.",
+    "damage": { "damage_type": "bullet", "amount": 45, "armor_penetration": 0 },
+    "range": 16,
+	"extend": { "effects": [ "WIDE", "BEANBAG" ] }
+  }
+]

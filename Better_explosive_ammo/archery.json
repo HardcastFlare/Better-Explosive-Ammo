@@ -1,0 +1,9 @@
+[
+  {
+    "id": "arrow_exploding",
+    "copy-from": "arrow_exploding",
+    "type": "AMMO",
+    "name": { "str": "explosive arrow" },
+	"extend": { "effects": [ "WIDE", "LARGE_BEANBAG" ] }
+  }
+]

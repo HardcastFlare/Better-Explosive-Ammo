@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "explosive_slugs_useful",
+    "name": "Better Explosive Ammo",
+    "authors": [ "HardcastFlare" ],
+    "description": "Makes explosive arrows a bit better, and makes explosive slugs a LOT better.",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]
